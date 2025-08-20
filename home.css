@@ -1,0 +1,35 @@
+
+
+
+
+header{
+    display: flex;
+    height: 151px;
+    width: 1140px;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0px auto;
+}
+
+.logo{
+    color: #4E47FF;
+    height: 51px;
+    width: 99px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    font-size: 30px;
+    line-height: 150%;
+    text-align: left;
+    
+}
+.signupbutton{
+    height: 48px;
+    width: 132px;
+    gap: 10px;
+    padding: 12px 36px 12px 36px;
+    text-align: center;
+    border-radius: 10px;
+    background-color:#4E47FF;
+    color: #FFFFFF;
+
+}
