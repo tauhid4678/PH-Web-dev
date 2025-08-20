@@ -1,13 +1,21 @@
 
 
+.raleway-normal{
+  font-family: "Raleway", sans-serif;
+}
 
-
-header{
+nav{
     display: flex;
     height: 151px;
     width: 1140px;
     justify-content: space-between;
     align-items: center;
+    margin: 0px auto;
+}
+
+header{
+    height: 698px;
+    width: 1440px;
     margin: 0px auto;
 }
 
@@ -32,4 +40,15 @@ header{
     background-color:#4E47FF;
     color: #FFFFFF;
 
+}
+.headerdiv{
+    height: 905px;
+    height: 237px;
+    display: flex;
+    flex-direction: column;
+    gap: 37px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: 0 auto;
 }
