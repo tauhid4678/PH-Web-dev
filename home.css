@@ -13,9 +13,9 @@ nav{
     margin: 0px auto;
 }
 
-header{
+.headernav{
     height: 698px;
-    width: 1440px;
+    width: 100%;
     margin: 0px auto;
     background-image: url(/assets/Hero-bg.png);
 }
@@ -42,7 +42,7 @@ header{
     color: #FFFFFF;
 
 }
-.headerdiv{
+.header{
     height: 905px;
     height: 237px;
     display: flex;
